@@ -1,9 +1,13 @@
 Integrantes
+
 Celso Canaveze Teixeira Pinto RM556118
+
 Tiago Augusto Desiderato RM558485 
+
 Thiago Moreno Matheus RM554507
 
 1. Introdução
+
  Nosso projeto em Java surgiu da necessidade de fornecer aos proprietários de
  automóveis uma ferramenta acessível e eficaz para identificar e resolver facilmente
  problemas de automóveis. À medida que os sistemas automóveis se tornam cada vez
@@ -12,6 +16,7 @@ Thiago Moreno Matheus RM554507
  manutenção e a tempos de inatividade desnecessários.
 
  2. Objetivos e Justificativa
+
  Oprojeto será dividido em várias classes que refletem o contexto do
  auto-diagnóstico automotivo. Algumas dessas classes incluem:
  Cliente, Fornecedor, Cadastro, Pedido, Endereço e Orçamento. Essas classes são apenas uma parte
